@@ -1,0 +1,16 @@
+#define Preprocessor_d 1
+#define Datatype 2
+#define Keyword 3
+#define MULT_COMMENT 4
+#define SINGLE_COMMENT 5
+#define String 6
+#define Identifier 7
+#define Space 8
+#define Newline 14
+#define ENDOFSTMT 9
+#define Operator 10
+#define Parenthesis 11
+#define Brace 12
+#define Bracket 13
+#define MAIN 15
+#define DELEMETER 16
