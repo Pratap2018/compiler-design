@@ -10,9 +10,9 @@
 
 
 ##### Command 
-![alttext](command.png)
+![alttext](/images/command.png)
 
 ##### Output
-![alttext](OUTPUT.png)
+![alttext](/images/OUTPUT.png)
 
 
